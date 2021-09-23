@@ -1,9 +1,9 @@
 {
-  "name": "𝐀𝐑𝐕𝐈 𝐌𝐔𝐒𝐈𝐂𝐒",
-  "logo": "https://telegra.ph/file/c554d82af0c1ce0136dfb.jpg",
+  "name": "𝐃𝐀𝐕𝐈𝐋 𝐃𝐀𝐃 𝐌𝐔𝐒𝐈𝐂",
+  "logo": "https://telegra.ph/file/014317de2dbb5433543d9.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/mehtaarvi/HIT-MEN-MUSIC",
+  "repository": "https://github.com/kkverma25/HIT-MEN-MUSIC",
   "stack": "container",
   "buildpacks": [
    {
@@ -26,7 +26,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "𝐀𝐑𝐕𝐈 𝐌𝐔𝐒𝐈𝐂𝐒"
+      "value": ""
     },
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
@@ -36,7 +36,7 @@
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "𝐀𝐑𝐕𝐈 𝐌𝐔𝐒𝐈𝐂𝐒"
+      "value": "𝐃𝐀𝐕𝐈𝐋 𝐃𝐀𝐃 𝐌𝐔𝐒𝐈𝐂"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -50,12 +50,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/a079bf6d8c0169a498d7f.jpg"
+      "value": "https://telegra.ph/file/de04416682b2bdc42642f.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "ABOUT_ARVI"
+      "value": "ABOUT_DEVIL_DAD"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
