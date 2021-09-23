@@ -46,7 +46,7 @@ async def start(client, message):
                 InlineKeyboardButton('𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃', url='https://t.me/YOUR_DEVIL_DAD'),
                 InlineKeyboardButton('𝐎𝐖𝐍𝐄𝐑', url='https://t.me/YOUR_DEVIL_DAD')
                 ],[
-                InlineKeyboardButton('║█🇦𝑫𝑫 🇲𝑬 🇹𝑶 🇾𝑶𝑼𝑹 🇬𝑹𝑶𝑼𝑷█║', url='https://t.me/DEVIL_DAD_MUSIC_ROBOT?startgroup=true'),
+                InlineKeyboardButton('║█🇦𝑫𝑫 🇲𝑬 🇹𝑶 🇾𝑶𝑼𝑹 🇬𝑹𝑶𝑼𝑷█║', url='https://t.me/MUSIC_R0BOT?startgroup=true'),
     ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -64,7 +64,7 @@ async def show_help(client, message):
                 InlineKeyboardButton('𝐎𝐖𝐍𝐄𝐑', url='https://t.me/YOUR_DEVIL_DAD'),
                 InlineKeyboardButton('𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃', url='https://t.me/YOUR_DEVIL_DAD')
                 ],[
-                InlineKeyboardButton('║█🇦𝑫𝑫 🇲𝑬 🇹𝑶 🇾𝑶𝑼𝑹 🇬𝑹𝑶𝑼𝑷█║', url='https://t.me/DEVIL_DAD_MUSIC_ROBOT?startgroup=true'),
+                InlineKeyboardButton('║█🇦𝑫𝑫 🇲𝑬 🇹𝑶 🇾𝑶𝑼𝑹 🇬𝑹𝑶𝑼𝑷█║', url='https://t.me/MUSIC_R0BOT?startgroup=true'),
        ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
