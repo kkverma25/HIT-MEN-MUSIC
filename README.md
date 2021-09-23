@@ -8,7 +8,7 @@
 <h2 align="center"><b>Owner: <a href="https://t.me/YOUR_DEVIL_DAD">𝐊𝐈𝐍𝐆</a></b></h2>
 <br>
 <p align="center">
-    <a href="https://t.me/BOT_DOUBT_GROUP"><img src="https://img.shields.io/badge/CHAT GROUP%20-𝐎𝐖𝐍𝐄𝐑--%F0%9D%91%BF-green?&logo=telegram&style=social" width=400px></a></p>
+    <a href="https://t.me/BOT_DOUBT_GROUP"><img src="https://img.shields.io/badge/DOUBT GROUP%20-𝐎𝐖𝐍𝐄𝐑--%F0%9D%91%BF-green?&logo=telegram&style=social" width=400px></a></p>
 
 # Disclaimer
 
