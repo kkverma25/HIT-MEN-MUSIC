@@ -53,7 +53,7 @@ DEPLOY TO HEROKU
 
 <p align="center">
 
-   <a href = "https://github.com/kkverma25/HIT-MEN-MUSIC"><img src="https://telegra.ph/file/f6a2aa17304bc088c5f4b.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/kkverma25/HIT-MEN-MUSIC"><img src="https://telegra.ph/file/f6a2aa17304bc088c5f4b.jpg" alt="Press to Takeoff" width="490px"></a>
 
 </p>
 
