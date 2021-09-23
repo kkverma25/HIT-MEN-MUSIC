@@ -472,7 +472,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "I joined this group for playing music in VC"
+                        message.chat.id, "DEVIL MUSIC ASSISTENT joined this group for playing music in VC"
                     )
                     await lel.edit(
                         "<b>helper userbot joined your chat</b>",
@@ -535,7 +535,7 @@ async def play(_, message: Message):
         )
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/f6086f8909fbfeb0844f2.png"
+        thumb_name = "https://telegra.ph/file/354d8c30617b54f9267f3.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -565,7 +565,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "Song not found.Try another song or maybe spell it properly."
+                "𝐌𝐄𝐑𝐄 𝐊𝐎 𝐘𝐄 𝐒𝐎𝐍𝐆 𝐍𝐀𝐇𝐈 𝐌𝐈𝐋𝐀 . 𝐒𝐇𝐀𝐘𝐀𝐃 𝐓𝐔𝐌𝐇𝐀𝐑𝐄 𝐒𝐏𝐄𝐋𝐋𝐈𝐍𝐆 𝐌𝐄 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐇 𝐏𝐋𝐄𝐀𝐒𝐄 𝐈𝐒𝐄  𝐒𝐀𝐇𝐈 𝐊𝐑𝐎. 𝐎𝐑 𝐀𝐆𝐑 𝐓𝐁 𝐁𝐇𝐈 𝐒𝐀𝐇𝐈 𝐍𝐀𝐇𝐈 𝐇𝐎 𝐑𝐇𝐀 𝐓𝐎 [𝐎𝐖𝐍𝐄𝐑](https://t.me/YOUR_DEVIL_DAD)  𝐒𝐄 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐊𝐑𝐎"
             )
             print(str(e))
             return
@@ -792,7 +792,7 @@ async def ytplay(_, message: Message):
 
     except Exception as e:
         await lel.edit(
-            "Song not found.Try another song or maybe spell it properly."
+            "𝐌𝐄𝐑𝐄 𝐊𝐎 𝐘𝐄 𝐒𝐎𝐍𝐆 𝐍𝐀𝐇𝐈 𝐌𝐈𝐋𝐀 . 𝐒𝐇𝐀𝐘𝐀𝐃 𝐓𝐔𝐌𝐇𝐀𝐑𝐄 𝐒𝐏𝐄𝐋𝐋𝐈𝐍𝐆 𝐌𝐄 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐇 𝐏𝐋𝐄𝐀𝐒𝐄 𝐈𝐒𝐄  𝐒𝐀𝐇𝐈 𝐊𝐑𝐎. 𝐎𝐑 𝐀𝐆𝐑 𝐓𝐁 𝐁𝐇𝐈 𝐒𝐀𝐇𝐈 𝐍𝐀𝐇𝐈 𝐇𝐎 𝐑𝐇𝐀 𝐓𝐎 [𝐎𝐖𝐍𝐄𝐑](https://t.me/YOUR_DEVIL_DAD)  𝐒𝐄 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐊𝐑𝐎."
         )
         print(str(e))
         return
@@ -1036,7 +1036,7 @@ async def jiosaavn(client: Client, message_: Message):
                     # print(e)
                     await lel.edit(
                         f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add @patriciaXmusic to your Group and try again</b>",
+                        "\n\nOr manually add @ABOUT_DEVIL_DAD to your Group and try again</b>",
                     )
     try:
         await USER.get_chat(chid)
