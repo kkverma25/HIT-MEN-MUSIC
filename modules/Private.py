@@ -5,7 +5,7 @@ import signal
 import os
 import sys
 
-HOME_TEXT = "<b>ʜᴇʏ, [{}](tg://user?id={})\n\n . 𝙃𝙚𝙮 𝙖𝙢 𝙋𝘼𝙍𝙏 𝙤𝙛  𝑨𝑹𝑽𝑰 𝑴𝑼𝑺𝑰𝑪 𝑩𝑶𝑻\n 𝙈𝙚𝙧𝙚 𝙠𝙤 𝙖𝙥𝙣𝙚 𝙜𝙧𝙤𝙪𝙥 𝙢𝙚 𝙖𝙙𝙙 𝙠𝙧𝙤 𝙤𝙧 𝙢𝙪𝙨𝙞𝙘 𝙨𝙪𝙣𝙤. 😜😜\n 👸𝑶𝑾𝑵𝑬𝑹👸=[🇶🆄🄴⃝🄴⃝🇳](https://t.me/FOREVER_ANGEL_0)\n     💗💗❤️❤️❤️💗💗"   
+HOME_TEXT = "<b>ʜᴇʏ, [{}](tg://user?id={})\n\n . 𝐇𝐄𝐘  𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃 𝐌𝐔𝐒𝐈𝐂.\n 𝐀𝐃𝐃 𝐌𝐄 𝐈𝐍 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 & 𝐏𝐋𝐀𝐘 𝐒𝐎𝐍𝐆.\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑= [𝐄𝐕𝐄𝐑𝐄𝐓𝐓](https://t.me/YOUR_DEVIL_DAD) .\n\n ..........🖤🎧🖤......."   
 
 
 HELP = """
