@@ -5,7 +5,7 @@
    <br>
    <br>
 </p>
-<h2 align="center"><b>Owner: <a href="https://t.me/FOREVER_ANGEL_0">️👸🇦🆁🆅🅸👸</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://t.me/YOUR_DEVIL_DAD">𝐊𝐈𝐍𝐆</a></b></h2>
 <br>
 <p align="center">
     <a href="https://t.me/world_wide_chattt"><img src="https://img.shields.io/badge/CHAT GROUP%20-ARVI--%F0%9D%91%BF-green?&logo=telegram&style=social" width=400px></a></p>
@@ -36,7 +36,7 @@
 DEPLOY TO HEROKU
 * With mehtaarvi:
 <p align="center">
-   <a href = "https://t.me/FOREVER_ANGEL_0"><img src="https://telegra.ph/file/c129125f295b933263460.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://t.me/YOUR_DEVIL_DAD"><img src="https://telegra.ph/file/c129125f295b933263460.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
@@ -53,7 +53,7 @@ DEPLOY TO HEROKU
 
 <p align="center">
 
-   <a href = "https://heroku.com/deploy?template=https://github.com/mehtaarvi/HIT-MEN-MUSIC"><img src="https://telegra.ph/file/f6a2aa17304bc088c5f4b.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://github.com/kkverma25/HIT-MEN-MUSIC"><img src="https://telegra.ph/file/f6a2aa17304bc088c5f4b.jpg" alt="Press to Takeoff" width="490px"></a>
 
 </p>
 
