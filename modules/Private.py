@@ -31,7 +31,7 @@ HELP = """
 • `/end` __Stops music play__
 • `/admincache` __Refresh list of admins with vc power__
 © Powered By 
-[ __@world_wide_chattt || @world_wide_chattt__ ]
+[ __@YOUR_DEVIL_DAD || @YOUR_DEVIL_DAD__ ]
 """
 
 
@@ -40,17 +40,17 @@ HELP = """
 async def start(client, message):
     buttons = [
        [
-                InlineKeyboardButton('⚡𝕮𝖍𝖆𝖓𝖓𝖊𝖑⚡', url='https://t.me/ABOUT_ARVI'),
-                InlineKeyboardButton('乂❤₲ⱤØɄ₱❤乂', url='https://t.me/world_wide_chattt')
+                InlineKeyboardButton('⚡𝐂𝐇𝐀𝐍𝐍𝐄𝐋⚡', url='https://t.me/ABOUT_DEVIL_DAD'),
+                InlineKeyboardButton('乂❤𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏❤乂', url='https://t.me/DEVIL_DAD_SUPPORT')
                 ],[
-                InlineKeyboardButton('👸🇪🅻🅸👸', url='https://t.me/Eliana_072'),
-                InlineKeyboardButton('👸🇦🆁🆅🅸👸', url='https://t.me/FOREVER_ANGEL_0')
+                InlineKeyboardButton('𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃', url='https://t.me/YOUR_DEVIL_DAD'),
+                InlineKeyboardButton('𝐎𝐖𝐍𝐄𝐑', url='https://t.me/YOUR_DEVIL_DAD')
                 ],[
                 InlineKeyboardButton('║█🇦𝑫𝑫 🇲𝑬 🇹𝑶 🇾𝑶𝑼𝑹 🇬𝑹𝑶𝑼𝑷█║', url=f'https://t.me/{BOT_USERNAME}?startgroup=true'),
     ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
-    await message.reply_photo(photo="https://telegra.ph/file/e6fd14982dad3f66563a4.jpg", caption=HOME_TEXT.format(message.from_user.first_name, message.from_user.id), reply_markup=reply_markup)
+    await message.reply_photo(photo="https://telegra.ph/file/b8d57f812c53fc955853f.jpg", caption=HOME_TEXT.format(message.from_user.first_name, message.from_user.id), reply_markup=reply_markup)
     await message.delete()
 
 
@@ -58,15 +58,15 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-                InlineKeyboardButton('⚡𝕮𝖍𝖆𝖓𝖓𝖊𝖑⚡', url='https://t.me/ABOUT_ARVI'),
-                InlineKeyboardButton('乂❤₲ⱤØɄ₱❤乂', url='https://t.me/world_wide_chattt')
+                InlineKeyboardButton('⚡𝐂𝐇𝐀𝐍𝐍𝐄𝐋⚡', url='https://t.me/ABOUT_DEVIL_DAD'),
+                InlineKeyboardButton('乂❤𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏❤乂', url='https://t.me/DEVIL_DAD_SUPPORT')
                 ],[
-                InlineKeyboardButton('👸🇪🅻🅸👸', url='https://t.me/Eliana_072'),
-                InlineKeyboardButton('👸🇦🆁🆅🅸👸', url='https://t.me/FOREVER_ANGEL_0')
+                InlineKeyboardButton('𝐎𝐖𝐍𝐄𝐑', url='https://t.me/YOUR_DEVIL_DAD'),
+                InlineKeyboardButton('𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃', url='https://t.me/YOUR_DEVIL_DAD')
                 ],[
                 InlineKeyboardButton('║█🇦𝑫𝑫 🇲𝑬 🇹𝑶 🇾𝑶𝑼𝑹 🇬𝑹𝑶𝑼𝑷█║', url=f'https://t.me/{BOT_USERNAME}?startgroup=true'),
        ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
-    await message.reply_photo(photo="https://telegra.ph/file/e6fd14982dad3f66563a4.jpg", caption=HELP, reply_markup=reply_markup)
+    await message.reply_photo(photo="https://telegra.ph/file/b8d57f812c53fc955853f.jpg", caption=HELP, reply_markup=reply_markup)
     await message.delete()
