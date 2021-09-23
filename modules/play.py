@@ -238,7 +238,7 @@ async def hfmm(_, message):
     if status == "ON" or status == "on" or status == "On":
         lel = await message.reply("`Processing...`")
         if not message.chat.id in DISABLED_GROUPS:
-            await lel.edit("Music Player Already Activated In This Chat")
+            await lel.edit("Music plauer already activate jn this chat. (music player phle se hi avtive h to kyu baar baar ungli kr rhe ho be")
             return
         DISABLED_GROUPS.remove(message.chat.id)
         await lel.edit(
