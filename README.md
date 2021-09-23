@@ -33,8 +33,8 @@
 ```
 ## OWNERS
 
-DEPLOY TO HEROKU
-* With mehtaarvi:
+* 𝐎𝐖𝐍𝐄𝐑
+
 <p align="center">
    <a href = "https://t.me/YOUR_DEVIL_DAD"><img src="https://telegra.ph/file/998fa6c94f96fda2a2fe5.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
