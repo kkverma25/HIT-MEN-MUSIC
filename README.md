@@ -1,7 +1,7 @@
-<h2 align="center"><b>Owner: <a href="https://t.me/FOREVER_ANGEL_0">️👸🇦🆁🆅🅸👸</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://t.me/YOUR_DEVIL_DAD">𝐎𝐖𝐍𝐄𝐑</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/mehtaarvi/HIT-MEN-MUSIC"><img src="https://telegra.ph/file/efd5b708dee90a6947a13.png" alt="MEHTAARVI" width=400px></a>
+   <a href="https://github.com/kkverma25/HIT-MEN-MUSIC"><img src="https://telegra.ph/file/b8d57f812c53fc955853f.jpg" alt="𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃" width=400px></a>
    <br>
    <br>
 </p>
