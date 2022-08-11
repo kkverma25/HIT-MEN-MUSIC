@@ -1,7 +1,7 @@
 <h2 align="center"><b>Owner: <a href="https://t.me/YOUR_DEVIL_DAD">𝐎𝐖𝐍𝐄𝐑</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/kkverma25/HIT-MEN-MUSIC"><img src="https://telegra.ph/file/84bfdec96ec401a28e257.jpg" alt="𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃" width=400px></a>
+   <a href="https://t.me/EVERETTmovies"><img src="https://telegra.ph/file/84bfdec96ec401a28e257.jpg" alt="𝐃𝐄𝐕𝐈𝐋 𝐃𝐀𝐃" width=400px></a>
    <br>
    <br>
 </p>
